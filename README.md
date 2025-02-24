@@ -1,4 +1,4 @@
-# Hospital_Mortality_Prediction
+# Hospital_Mortality_Prediction using Machine Learning and Pycaret
 The predictors of in-hospital mortality for intensive care units(ICU)-admitted HF patients remain poorl characterized. We amided to develop and validate a prediction model for all cause in hospital moratlity among ICU admitted HF patients
 
 we will using diiferent ML models and then Pycaret Auto ML library to predict the result in the notebook.
